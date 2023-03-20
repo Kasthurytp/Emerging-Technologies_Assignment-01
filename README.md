@@ -25,16 +25,7 @@ Section 1;
           
 Framework Attributes:
         ● Build Hybrid Test Framework -- Page Object Model + Data Driven framework + TestNG & Maven Project Structure
-        ● Corresponding packages for -- Scripting
-        ○ Page Layer : Creating and storing the test object description using Page Factory – Framework
-        ○ Test Layer : Multiple test cases using TestNG annotations – Framework
-        ○ Test Base : Prerequisite of initializing the drivers, properties, etc. – Framework
-        ○ Configuration files : to store environment variables in .properties file like, URL, Default username and passwords, browser instances etc. – Framework
-        ○ Test data files : Excels, My SQL DB, Property file
-        ○ Utilities : to store screenshots, generic functions, common utilities, emails etc.
-        ○ Reports using HTML, XML, Extent Reports etc.- Framework
-        ● Executable Automation Scripts with capable of capturing screen images of failure test cases by fetching the data from DB , excel, property file.
-        ● Capture all the logs using log4j
+        
         
 Section 2:
         Write down a feature for the above scenario ( New user creation) and implement the required step definitions to automate it.
