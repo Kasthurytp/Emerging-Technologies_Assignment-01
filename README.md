@@ -24,6 +24,9 @@ Section 1;
           d. Validate that new user created successfully.
           
 Framework Attributes:
+  - Build new test automation framework or extend existing framework for new set of test cases identified for given application
+  - Develop Cucumber feature file for above nes test cases and extend the framework to cater a BDD scenario
+  - Extend the solution with some AI concepts.
         - Build Hybrid Test Framework -- Page Object Model + Data Driven framework + TestNG & Maven Project Structure
         - Corresponding packages for -- Scripting
         - Page Layer : Creating and storing the test object description using Page Factory – Framework
