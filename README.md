@@ -19,9 +19,9 @@ Section 1;
           https://github.com/sarath-kadigamugedara/BDD_Demo
   2. Understand the framework based on below mentioned attributes and add new test case(s) for below scenario ( New user creation).
   - Logging to the system as admin user
-          b. Click on Users → New User
-          c. Fill the mandatory fields and create a new user
-          d. Validate that new user created successfully.
+  - Click on Users → New User
+  - Fill the mandatory fields and create a new user
+  - Validate that new user created successfully.
           
 Framework Attributes:
   - Build Hybrid Test Framework -- Page Object Model + Data Driven framework + TestNG & Maven Project Structure
@@ -38,14 +38,13 @@ Framework Attributes:
         
         
 Section 2:
-        Write down a feature for the above scenario ( New user creation) and implement the required step definitions to automate it.
+  - Write down a feature for the above scenario ( New user creation) and implement the required step definitions to automate it.
         
 Section 3:
-        In the given solution, there is page time out and wait time has been hardcorded in the TestUtil class. Please extend this with some AI concepts to build a solution to identify at
-        least two different browsers and accommodate two different timeouts and wait time automatically.
+  - In the given solution, there is page time out and wait time has been hardcorded in the TestUtil class. Please extend this with some AI concepts to build a solution to identify at least two different browsers and accommodate two different timeouts and wait time automatically.
 
 Please refer below content as reference materials.
-      ● https://www.youtube.com/watch?v=P9ZWOWm7i0k
-      https://www.guru99.com/selenium-tutorial.html
+  - https://www.youtube.com/watch?v=P9ZWOWm7i0k
+  - https://www.guru99.com/selenium-tutorial.html
       
       
